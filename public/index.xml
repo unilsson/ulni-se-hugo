@@ -8,13 +8,35 @@
     <language>sv</language>
     <managingEditor>unilsson@ipfabriken.se (Ulf Nilsson)</managingEditor>
     <webMaster>unilsson@ipfabriken.se (Ulf Nilsson)</webMaster>
+    <lastBuildDate>Fri, 26 Apr 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>De 10 bästa solospelen (enligt Dice Tower)</title>
+      <link>http://localhost:1313/post/2024-04-26-best-solo-games/</link>
+      <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate><author>unilsson@ipfabriken.se (Ulf Nilsson)</author>
+      <guid>http://localhost:1313/post/2024-04-26-best-solo-games/</guid>
+      <description>The Dice Tower är ju alltid både en källa till underhållning men information. Eftersom solospel ligger mig varmt om hjärtat så är denna Top-10 intressant.&#xA;Bästa spelet är &amp;ldquo;Dwellings of Eldervale&amp;rdquo;, vilket för tillfället är extremt svårt att komma över. Tyvärr finns det inte i min samling. Men, men&amp;hellip;det som väntar på något gott&amp;hellip;</description>
+    </item>
+    <item>
+      <title>Första blogginlägget</title>
+      <link>http://localhost:1313/post/2024-04-24-first-blog/</link>
+      <pubDate>Wed, 24 Apr 2024 00:00:00 +0000</pubDate><author>unilsson@ipfabriken.se (Ulf Nilsson)</author>
+      <guid>http://localhost:1313/post/2024-04-24-first-blog/</guid>
+      <description>Detta är första inlägget på nya bloggen. Ser det ok ut?&#xA;Testat och fungerar: title, date, author.&#xA;I &amp;ldquo;lastmod&amp;rdquo; måste datumet korrigeras och supportas inte för tillfället.</description>
+    </item>
     <item>
       <title>CV</title>
       <link>http://localhost:1313/page/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>unilsson@ipfabriken.se (Ulf Nilsson)</author>
       <guid>http://localhost:1313/page/cv/</guid>
       <description>Personlig data Ulf Sune Nilsson&#xA;Född i Stockholm, 1969&#xA;E-post: unilsson@ipfabriken.se&#xA;Nuvarande position Expert mobila system, Telia Company AB&#xA;Utbildning Naturvetenskaplig linje, examen Juni, 1988 Military Service: 1988-1989 Filosofie Kandidat i Fysik, Stockholms Universitet, Sverige, Oktober 1, 1993. Avhandlingens titel: &amp;ldquo;Ljusutbredning i en modell för ett inhomogent universum&amp;rdquo; Filosofie Licentiat i Teoretisk Fysik, Stockholms Universitet, Sverige, Maj 31, 1996.Avhandlingens titel: &amp;ldquo;Hypersurface homogeneous and hypersurface self-similar models &amp;ndash; a unified treatment&amp;rdquo; Filosofie Doktor i Teoretisk Fysik, Stockholms Universitet, Sverige, Juni 3, 1998.</description>
+    </item>
+    <item>
+      <title>Kontaktinformation</title>
+      <link>http://localhost:1313/page/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>unilsson@ipfabriken.se (Ulf Nilsson)</author>
+      <guid>http://localhost:1313/page/contact/</guid>
+      <description>Email Email (privat): unilsson@ipfabriken.se Email (arbete): ulf.s.nilsson@teliacompany.com Email (Haninge Hembygdsgille, ordförande): ulf.nilsson@haningehembygd.se Social Networks Facebook X.com </description>
     </item>
     <item>
       <title>Publikationslista</title>

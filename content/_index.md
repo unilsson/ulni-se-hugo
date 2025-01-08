@@ -1,2 +1,2 @@
 ## Front Page Content
-`beautifulhugo` supports content on your front page. Edit `/content/_index.md` to change what appears here. Delete `/content/_index.md` if you don't want any content here.
+Snart dags för att börja använda denna web site ordentligt. Det betyder ta bort alla kommentarer som denna.
