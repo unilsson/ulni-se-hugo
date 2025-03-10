@@ -1,3 +1,3 @@
 # ulni.se-hugo
-New design of homepage in a blogg style using Hugo.
-This is eventually replace my other ulni.se web site.
+New design of my Swedish homepage in a blog style using Hugo. It will also deploy the static website
+using ftp when something new is pushed to the repository.
