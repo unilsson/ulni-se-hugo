@@ -23,5 +23,5 @@ jobs:
       with:
         ftp-server:  ${{ vars.FTP_SERVER }}
         ftp-username: ${{ secrets.FTP_USER }}
-        ftp-password: ${{ secrets.FTP_PASSWORD }}
+        ftp-password: ${{ secrets.FTP_ULNI_SE_PASSWORD }}
         local-dir: public/
